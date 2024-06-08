@@ -1,7 +1,7 @@
 # TravelWorld
 a Django project on Tour & Travel
 
-
+![Screenshot (465)](https://github.com/klu-2100032567/Travel-Tourism-and-Hospitality-System/assets/121150348/96c2728a-3bb8-46f3-87d8-b87dc890e8e4)
 ![1](https://github.com/klu-2100032567/Travel-Tourism-and-Hospitality-System/assets/121150348/7e22b7ca-87dc-4b13-a137-ddde5ccaa44c)
 
 ![2](https://github.com/klu-2100032567/Travel-Tourism-and-Hospitality-System/assets/121150348/d7305889-c023-44de-a521-16910802c84b)
@@ -23,7 +23,7 @@ a Django project on Tour & Travel
 ![10](https://github.com/klu-2100032567/Travel-Tourism-and-Hospitality-System/assets/121150348/4b40635e-f31f-4e6a-82a0-b0e2af7469e2)
 
 
-![Screenshot (465)](https://github.com/klu-2100032567/Travel-Tourism-and-Hospitality-System/assets/121150348/96c2728a-3bb8-46f3-87d8-b87dc890e8e4)
+
 
 
 ![Screenshot (466)](https://github.com/klu-2100032567/Travel-Tourism-and-Hospitality-System/assets/121150348/c8db078d-18eb-4272-8b22-2651710c2f36)
